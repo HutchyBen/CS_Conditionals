@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingSensors", "ParkingSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaApp", "CinemaApp\CinemaApp.csproj", "{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeTaxCalculator", "IncomeTaxCalculator\IncomeTaxCalculator.csproj", "{A682F96C-27C5-48D1-A843-CBC99FCF9E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A682F96C-27C5-48D1-A843-CBC99FCF9E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682F96C-27C5-48D1-A843-CBC99FCF9E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682F96C-27C5-48D1-A843-CBC99FCF9E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682F96C-27C5-48D1-A843-CBC99FCF9E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -54,7 +54,7 @@ namespace CinemaApp
                 goto Success;
             }
             
-            Console.WriteLine("Grow up");
+            Console.WriteLine("Grow up.");
             return;
             
             Success:
