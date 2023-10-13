@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop", "PizzaShop\Pizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingSensors", "ParkingSensors\ParkingSensors.csproj", "{F7ED6233-C4B3-43BF-A5C2-BD05D17869AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaApp", "CinemaApp\CinemaApp.csproj", "{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F7ED6233-C4B3-43BF-A5C2-BD05D17869AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7ED6233-C4B3-43BF-A5C2-BD05D17869AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7ED6233-C4B3-43BF-A5C2-BD05D17869AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA44EAB-A0B2-4C08-B016-32DD7384AE90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
